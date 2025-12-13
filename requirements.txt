@@ -1,0 +1,4 @@
+requirements.txtstreamlit
+rembg
+pillow
+onnxruntime
