@@ -1,3 +1,3 @@
-requirements.txtstreamlit
+streamlit
 rembg
 pillow
