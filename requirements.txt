@@ -1,2 +1,4 @@
 streamlit
-docxtpl
+rembg
+pillow
+onnxruntime
